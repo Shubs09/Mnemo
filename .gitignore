@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# Local test / utility scripts
+backend/app/test_embedding.py
+backend/app/test_embeddings_function.py
+backend/app/test_llm.py
+backend/app/test_search.py
+backend/app/generate_missing_embeddings.py
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
