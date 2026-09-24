@@ -459,7 +459,7 @@ into one end-to-end application.
 
 ## 👤 Author
 
-**Shubs**
+**Shubham Rajput**
 
 AI / GenAI Portfolio Project
 
