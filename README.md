@@ -278,8 +278,6 @@ LLM_API_KEY=ollama
 LLM_MODEL=llama3.2
 ```
 
-> **Important:** Never commit your real `.env` file, API keys, passwords, or access tokens to GitHub.
-
 ---
 
 ## 🚀 Local Setup
