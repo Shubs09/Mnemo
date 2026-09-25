@@ -442,7 +442,7 @@ Mnemo demonstrates how a traditional journal application can be enhanced with AI
 The project brings together:
 
 - User authentication
-- REST APIs
+- FastAPI
 - PostgreSQL
 - Vector embeddings
 - Semantic search
